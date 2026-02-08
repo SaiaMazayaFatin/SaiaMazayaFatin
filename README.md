@@ -73,10 +73,11 @@ I’m an **AI Engineer** passionate about bridging the gap between research and 
 
 <div align="center">
   <a href="https://github.com/saiamazayafatin">
-    <img src="https://github-readme-stats.vercel.app/api?username=saiamazayafatin&show_icons=true&theme=radical&line_height=27&bg_color=000000&title_color=ff0000&icon_color=ff0000&hide_border=true" height="180" alt="Maza's Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SaiaMazayaFatin&show_icons=true&theme=radical&bg_color=000000&title_color=ff0000&icon_color=ff0000&hide_border=true" alt="Maza's Stats" width="400" />
   </a>
   <a href="https://github.com/saiamazayafatin">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiamazayafatin&layout=compact&theme=radical&bg_color=000000&title_color=ff0000&icon_color=ff0000&hide=html,css&hide_border=true" height="180" alt="Top Langs" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SaiaMazayaFatin&layout=compact&theme=radical&bg_color=000000&title_color=ff0000&icon_color=ff0000&hide_border=true" alt="Top Langs" width="400" />
+      </td>
   </a>
 </div>
   
