@@ -25,7 +25,7 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="Miku.gif" width="180" alt="Miku Anime Character" style="border-radius: 10px;" />
+      <img src="Miku.gif" width="100%" alt="Anime Character" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
@@ -67,23 +67,20 @@ I’m an **AI Engineer** passionate about bridging the gap between research and 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-  <br/><br/>
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/saiamazayafatin">
-          <img src="https://github-readme-stats.vercel.app/api?username=saiamazayafatin&show_icons=true&theme=radical&line_height=27&bg_color=000000&title_color=ff0000&icon_color=ff0000&hide_border=true" alt="Maza's Stats" width="400" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/saiamazayafatin">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiamazayafatin&layout=compact&theme=radical&bg_color=000000&title_color=ff0000&icon_color=ff0000&hide=html,css&hide_border=true" alt="Top Langs" width="400" />
-        </a>
-      </td>
-    </tr>
-  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/saiamazayafatin">
+    <img src="https://github-readme-stats.vercel.app/api?username=saiamazayafatin&show_icons=true&theme=radical&line_height=27&bg_color=000000&title_color=ff0000&icon_color=ff0000&hide_border=true" height="180" alt="Maza's Stats" />
+  </a>
+  <a href="https://github.com/saiamazayafatin">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiamazayafatin&layout=compact&theme=radical&bg_color=000000&title_color=ff0000&icon_color=ff0000&hide=html,css&hide_border=true" height="180" alt="Top Langs" />
+  </a>
+</div>
   
-  <br/>
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiamazayafatin&theme=radical&background=000000&ring=ff0000&currStreakLabel=ff0000&hide_border=true" alt="Streak Stats" />
 </div>
 
